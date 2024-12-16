@@ -9,7 +9,7 @@
 + Kursumuzun toplam ücreti KDV dahil __39.500__ TL’dir(Peşin ödemede __35.500__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __35.000__ TL’dir (peşin ödemede __31.500__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
   
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023/blob/main/sss.md)
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcqcOGgrD0sGtA4c6aeLts6aw1JNKQDjBCA#/registration)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-11-Subat-2025-/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-11-Subat-2025-/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-11-Subat-2025-/blob/main/sss.md)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZAkcuiupzsjGNSJ2n0Ee350fz5WEzjvbh7m#/registration)
