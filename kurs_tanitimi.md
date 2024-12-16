@@ -27,7 +27,7 @@ Dersler hafta içi __Salı- Perşembe__ günleri saat __19:30 – 22-30__ saatle
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023/blob/main/kurs_icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-11-Subat-2025-/blob/main/kurs_icerigi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir. 
@@ -74,8 +74,8 @@ _Java ile Uygulama Geliştirme_ kursu ilgili eğitim materyalleri program süres
 ## Eğitim Ücreti
 Kursumuzun toplam ücreti KDV dahil __39.500__ TL’dir(Peşin ödemede __35.500__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __35.00__ TL’dir (peşin ödemede __31.500__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
 ## Ön Kayıt
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcqcOGgrD0sGtA4c6aeLts6aw1JNKQDjBCA#/registration)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZAkcuiupzsjGNSJ2n0Ee350fz5WEzjvbh7m#/registration)
 
 ## Sık Sorulan Sorular
-_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-21-Ekim-2023/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_Java ile Uygulama Geliştirme Kursu_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-11-Subat-2025-/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
 
