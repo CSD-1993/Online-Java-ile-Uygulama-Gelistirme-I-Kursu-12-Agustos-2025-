@@ -6,7 +6,7 @@
 + Kurs eğitmeni __Oğuz KARAN__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __240__ saattir. Dersler __Salı ve Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
-+ Kursumuzun toplam ücreti KDV dahil __39.500__ TL’dir(Peşin ödemede __35.500__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __35.000__ TL’dir (peşin ödemede __31.500__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
++ Kursumuzun toplam ücreti KDV dahil __39.500__ TL’dir(Peşin ödemede __35.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __35.000__ TL’dir (peşin ödemede __31.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
   
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-I-Kursu-11-Subat-2025-/blob/main/kurs_tanitimi.md)
