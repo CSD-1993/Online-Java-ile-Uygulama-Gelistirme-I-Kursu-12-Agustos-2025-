@@ -2,7 +2,7 @@
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar İş birliği ile düzenlenmektedir.
-+ Kurs __12 Agustos 2025 Salı__ günü başlayacaktır.
++ Kurs __12 Ağustos 2025 Salı__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz KARAN__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __240__ saattir. Dersler __Salı ve Perşembe__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
