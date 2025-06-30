@@ -1,4 +1,4 @@
-# Online-Java-ile-Uygulama-Gelistirme-I-Kursu-12-Agustos-2025-
+# Online Java ile Uygulama Gelistirme I Kursu-12 Agustos 2025
 
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar İş birliği ile düzenlenmektedir.
