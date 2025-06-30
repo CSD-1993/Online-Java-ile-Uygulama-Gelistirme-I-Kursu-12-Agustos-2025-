@@ -1,4 +1,4 @@
-# Online Java ile Uygulama Geliştirme Kursu (I) - Genel Tanıtım
+# Online Java ile Uygulama Geliştirme Kursu I - Genel Tanıtım
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve __Sistem Bilgisayar__ iş birliği ile düzenlenmektedir.
 
