@@ -1,4 +1,4 @@
-# Online Java ile Uygulama Geliştirme I (240 Saat)
+# Online Java ile Uygulama Geliştirme (1) (240 Saat)
 
 ## Yararlı sınıflar
     StringBuilder sınıfı
