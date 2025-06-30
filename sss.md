@@ -1,4 +1,4 @@
-# Online Java ile Uygulama Geliştirme Kursu – Sık Sorulan Sorular
+# Online Java ile Uygulama Geliştirme (1) Kursu  12 Ağustos 2025 – Sık Sorulan Sorular
 
 Aşağıda __Oğuz Karan__ tarafından verilen _Online Java ile Uygulama Geliştirme Kursu_ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
